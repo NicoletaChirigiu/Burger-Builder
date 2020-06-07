@@ -6,9 +6,9 @@ import NavigationItem from './NavigationItem/NavigationItem';
 const navigationItems = (props) => (
   <ul className={classes.NavigationItems}>
     <NavigationItem link={'/'} active>
-      Burger Builder
+      Burger Builder 
     </NavigationItem>
-    <NavigationItem link={'/'}>Check Out</NavigationItem>
+    <NavigationItem link={'/'}> Checkout</NavigationItem>
   </ul>
 );
 export default navigationItems;
