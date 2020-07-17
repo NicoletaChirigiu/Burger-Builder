@@ -1,5 +1,5 @@
 # Burger-Builder
-This project was created with React App.
+This project was created using React App.
 
 ![burger1](https://user-images.githubusercontent.com/56932618/84696067-90392800-af54-11ea-8844-799e6324a834.PNG)
 
